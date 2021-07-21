@@ -17,6 +17,6 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: false}))
 
 // listen for requests
-server.listen(3000, '127.0.0.1', () => {
+server.listen(port, address, () => {
   console.log(`Server Listening on http://${address}:${port}`)
 })
