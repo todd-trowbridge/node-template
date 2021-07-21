@@ -12,6 +12,6 @@ inside of package.json change the scripts section to:
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-},`
+},`\
 
-run the server      ```npm run dev```\
+run the server      ```npm run dev```
