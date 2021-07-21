@@ -6,7 +6,7 @@
 1. initialize npm      ```npm init```
 1. install express     ```npm install express```
 1. install nodemon     ```npm install nodemon```
-inside of package.json change the scripts section to:
+1. inside of package.json change the scripts section to:
 
 ```"scripts": {
     "start": "node app.js",
