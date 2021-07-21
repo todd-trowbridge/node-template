@@ -14,4 +14,4 @@
     "test": "echo \"Error: no test specified\" && exit 1"
 },```
 
-run the server      ```npm run dev```
+1. run the server      ```npm run dev```
