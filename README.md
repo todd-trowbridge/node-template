@@ -6,4 +6,4 @@
 4. initialize npm      ```npm init```
 5. install express     ```npm install express```
 6. install nodemon     ```npm install nodemon```
-7. run the server      ```npm run dev``
+7. run the server      ```npm run dev```
