@@ -1,6 +1,3 @@
-// node project model
-// use 'npm install' to install required node modules
-
 // require modules
 const http = require("http");
 const express = require("express");
@@ -21,5 +18,5 @@ app.use(express.urlencoded({ extended: false}))
 
 // listen for requests
 server.listen(3000, '127.0.0.1', () => {
-  console.log('Server Listening on http://127.0.0.1:3000')
+  console.log(`Server Listening on http://${address}:${port}`)
 })
