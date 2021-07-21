@@ -1,29 +1,16 @@
+// this is for simulating a db using objects
+
 const db = {
-  todos: [
+  examples: [
     {
       id: 1,
-      text: "Buy milk",
+      text: "text 1",
       completed: false
     },
     {
       id: 2,
-      text: "Buy eggs",
-      completed: false
-    },
-    {
-      id: 3,
-      text: "Buy flour",
-      completed: false
-    },
-    {
-      id: 4,
-      text: "Buy sugar",
-      completed: false
-    },
-    {
-      id: 5,
-      text: "make pancakes",
-      completed: false
+      text: "text 2",
+      completed: true
     },
   ]
 }
