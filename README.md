@@ -1,6 +1,7 @@
 # node-template
 
 clone the repo locally\
+\
 cd into /node-template\
 open in vscode      ```code .```\
 initialize npm      ```npm init```\
