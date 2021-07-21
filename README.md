@@ -14,7 +14,7 @@ install nodemon     ```npm install nodemon```\
 \
 inside of package.json change the scripts section to:
 
-%nbsp`"scripts": {
+&%nbsp`"scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
