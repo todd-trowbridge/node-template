@@ -2,7 +2,7 @@
 
 clone the repo locally\
 \
-cd into /node-template\
+cd into the node-template folder\
 \
 open in vscode      ```code .```\
 \
