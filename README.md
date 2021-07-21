@@ -6,7 +6,7 @@ open in vscode      ```code .```\
 initialize npm      ```npm init```\
 install express     ```npm install express```\
 install nodemon     ```npm install nodemon```\
-inside of package.json change the scripts section to:\
+inside of package.json change the scripts section to:
 
 `"scripts": {
     "start": "node app.js",
