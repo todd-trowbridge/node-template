@@ -6,8 +6,7 @@
 1. initialize npm      ```npm init```
 1. install express     ```npm install express```
 1. install nodemon     ```npm install nodemon```
-1. inside of package.json change: 
-```"scripts": {
+inside of package.json change: ```"scripts": {
 "test": "echo \"Error: no test specified\" && exit 1"
 },```
 
