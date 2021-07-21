@@ -7,13 +7,14 @@
 1. install express     ```npm install express```
 1. install nodemon     ```npm install nodemon```
 1. inside of package.json change: 
-* ```"scripts": {
+```"scripts": {
 "test": "echo \"Error: no test specified\" && exit 1"
 },```
-  to:
-*```"scripts": {
+to:
+```"scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
 },```
-1. run the server      ```npm run dev```
+
+run the server      ```npm run dev```
