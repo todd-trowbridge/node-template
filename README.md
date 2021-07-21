@@ -8,10 +8,10 @@ install express     ```npm install express```\
 install nodemon     ```npm install nodemon```\
 inside of package.json change the scripts section to:
 
-`"scripts": {
+```"scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-},`\
+},```
 
 run the server      ```npm run dev```
